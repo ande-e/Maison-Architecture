@@ -1,4 +1,4 @@
 # Maison-d-Architecture
-A high-end, minimalist architectural portfolio website focusing on structure, typography, and essential forms.
+A high-end, minimalist architectural portfolio website focusing on structure, typography and essential forms.
 
 https://maison-architecture.vercel.app/
